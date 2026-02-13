@@ -1,0 +1,5 @@
+Requirements
+
+Pygame
+Chess
+Stockfish executable
