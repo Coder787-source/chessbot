@@ -1,6 +1,10 @@
-Requirements
+Requirements 
 
-Pygame
-Chess
-Stockfish executable
-Python IDLE
+pygame
+chess
+chess.engine
+chess.pgn
+sys
+time
+os
+math
