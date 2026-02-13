@@ -6,4 +6,4 @@ The link to download python is here https://www.python.org/downloads/
 Everything else must be downloaded in cmd(windows),Terminal(mac/linux)
 
 
-Engine integration Credits Goes to the Stcokfish engine authors.
+Engine integration Credits Goes to the Stockfish engine authors.
