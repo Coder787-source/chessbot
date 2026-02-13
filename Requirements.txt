@@ -3,3 +3,4 @@ Requirements
 Pygame
 Chess
 Stockfish executable
+Python IDLE
